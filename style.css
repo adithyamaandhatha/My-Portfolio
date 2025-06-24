@@ -353,7 +353,7 @@ article .icon {
 }
 
 .project2-img {
-  border-radius: 1rem;
+  border-radius: 0rem;
   width: 40%;
   height:100%;
   object-fit: cover;
